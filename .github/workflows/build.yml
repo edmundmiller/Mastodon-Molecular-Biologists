@@ -6,7 +6,7 @@ name: Build and deploy to Github pages
 on:
   # Runs on pushes targeting the default branch (in our case: main)
   push:
-    branches: [$default-branch]
+    branches: main
   # This toggle enables us to run the workflow manually
   workflow_dispatch:
 
