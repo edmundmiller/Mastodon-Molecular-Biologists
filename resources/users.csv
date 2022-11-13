@@ -1,16 +1,3 @@
 account,name,link,keywords,language
-@emiller@genomic.social,Edmund Miller,https://genomic.social/@emiller,nfcore nascent functional_genomics julia,en
-@alex_peltzer@genomic.social,Alex Peltzer,https://genomic.social/@alex_peltzer,nfcore cloud_computing oncology immunology aDNA,de/en
-@raw937@genomic.social,,https://genomic.social/@raw937,Synthetic Virologist,en
-@drew_kt@genomic.social,Drew thompson,https://genomic.social/@drew_kt,undergrad bioinformatics + oncology,en
-@lucacozzuto@genomic.social,Luca Cozzuto,https://genomic.social/@lucacozzuto,nextflow ngs R python,en/ita/es
-@RikeHanssen@genomic.social,Friederike Hanssen,https://genomic.social/web/@RikeHanssen,PHD Student nf-core cloud_computing oncology,de/en
-@mribeirodantas@mastodon.social,Marcel Ribeiro-Dantas,https://mastodon.social/@mribeirodantas,nextflow nfcore causality science data_science data_engineering,pt/en
-@rob@genomic.social,Rob Patro,https://genomic.social/web/@rob,rna single-cell salmon alevin-fry data_structures algorithms algorithmic_genomics bioinformatics rust nextflow,en
-@pashadag@genomic.social,Paul Medvedev,https://genomic.social/@Pashadag,algorithmic_genomics algorithmicbioinformatics,en
-@cthoyt@scholar.social,Charles Tapley Hoyt,https://scholar.social/@cthoyt,bioinformatics cheminformatics foss python machine_learning,en
-@greenescientist@genomic.social,Casey Greene,https://genomic.social/@greenescientist,genomics bioinformatics,en
-@jfy133@genomic.social,James Fellows Yates,https://genomic.social/@jfy133,Metagenomics Palaeogenomics Microbiomes,en
-@gau@scholar.social,Maxime Ulysse Garcia,https://scholar.social/@gau,cancer bioinformatics pipeline nfcore nextflow,en/fr
-@toniher@mastodont.cat,Toni Hermoso Pulido,https://mastodont.cat/@toniher,bioinformatics openscience devops,ca/en/es
-@DrK@qoto.org,Katy Knight,https://qoto.org/@DrK,STEM Bioinformatics genetics Linux RStats Radiography medicalimaging Devon politics,en
+@EZ_eta@mastodon.social,Elia Zanella,https://mastodon.social/@EZ_eta,Replication Stress DNA Damage response eccDNA,en/ita
+@emiller@genomic.social,Edmund Miller,https://genomic.social/@emiller,nascent functional_genomics,en
